@@ -3,7 +3,7 @@
 ## ▶️ How to Use
 
 1. Open the website  
-   https://manishkumarsingh41.github.io/LinkStream-/
+   https://manishkumarsingh41.github.io/LinkStream/
 
 2. Paste any URL into the input box
 
